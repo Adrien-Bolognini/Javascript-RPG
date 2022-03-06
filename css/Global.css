@@ -1,0 +1,41 @@
+
+:root {
+/* global css applied */
+    --border-color: #291D4D;
+    --dialog-background: #FFF;
+
+    --menu-background: #FFF;
+    --menu-border-color: #333;
+    --menu-font-color: #3A160D;
+    --menu-selected-background: #7fc2ff;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #333;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.game_container {
+    position: relative;
+    width: 352px;
+    height: 198px;
+    /*width: 528px;*/
+    /*height: 297px;*/
+    margin: 0 auto;
+    outline: 1px solid #fff;
+
+    /* used to scale pixelart on a proper rendering */
+    transform: scale(3) translateY(50%);
+    
+}
+
+.game_container canvas {
+    image-rendering: pixelated;
+}

@@ -1,4 +1,12 @@
+            
 
+            Commands :
+
+            Movement : Array keys, ZQSD , WASD
+
+            Action : Spacebar (interacting with NPC's, dialogues ect)
+
+            
             Project goal :
 
             Main idea of the project is learning how to use the Javascript code and implement & adapt & learn along with it.

@@ -2,7 +2,8 @@
             Project goal :
 
             Main idea of the project is learning how to use the Javascript code and implement & adapt & learn along with it.
-            Inspiration are taken from old RPG GBC games and older such as the likes of Pokémon, Final Fantasy, Earthbound, Dragon Quest ect.
+            Inspiration are taken from old RPG GBC games and older such as the likes of Pokémon, Final Fantasy, Earthbound, 
+            Dragon Quest ect.
 
             Final goals : 
 
@@ -33,7 +34,8 @@
             Features missing for the delivery by lack of time :
 
             * Anything related to battle state is missing
-            * sprites & tilesheets are taken online by lack of time to make proper one (also not graded by those so focus was on JS)
+            * sprites & tilesheets are taken online by lack of time to make proper one (also not graded by those so focus 
+            was on JS)
 
 
             Current issues :

@@ -41,7 +41,8 @@
             Current issues :
             1 / Increasing the deph of the event & cutscenes => need to employ UI's or loops of behaviors
             2 / Designing tilesheets and maps prove to take much longer than expected to give out a proper & uniform style.
-            3 / Animating a tile prove to be harder than expected, might require to be coded as an NPC and make an idle animation
+            3 / Animating a tile prove to be harder than expected, might require to be coded as an NPC and make an idle 
+            animation
 
 
             Goals reached :

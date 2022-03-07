@@ -4,14 +4,6 @@
             Main idea of the project is learning how to use the Javascript code and implement & adapt & learn along with it.
             Inspiration are taken from old RPG GBC games and older such as the likes of Pokémon, Final Fantasy, Earthbound, Dragon Quest ect.
 
-
-                                                /!\ Note for the project /!\
-
-            If this project were to not reach all current set goals, it'll keep going until all of them are reach even 
-            after the deadline initially given is reached.
-
-           given deadline == 03/03/2022 11.59 AM 
-
             Final goals : 
 
             * Make the RPG work on tiles of 16px each 
@@ -48,7 +40,6 @@
             1 / Increasing the deph of the event & cutscenes => need to employ UI's or loops of behaviors
             2 / Designing tilesheets and maps prove to take much longer than expected to give out a proper & uniform style.
             3 / Animating a tile prove to be harder than expected, might require to be coded as an NPC and make an idle animation
-            4 / 
 
 
             Goals reached :
